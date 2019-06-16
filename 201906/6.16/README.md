@@ -4,14 +4,14 @@
 
  #详细步骤  创建一个文件  点击文件右键显示执行“Git Bash Here”
  #执行打开文件 git配置 命令 
-（1）配置用户名、git config --global user.name "你自己的用户名"：这个命令配置用户名。（第一次注册时使用）  输入 git config user.name：这个命令查看已经配置的用户的名。
-（2）配置用户的邮箱、git config --global user.email "你自己的邮箱"：这个命令配置用户邮箱。（第一次注册时使用）输入 git config user.email：这个命令查看已经配置的邮箱。
-（3）初始化本地仓库、输入 git init：这个命令初始化本地仓库
-（4）暂存文件 输入 git add .  这个命令暂存所有更改的文件
-（5）提交文件  推送到自己的文件   
+   （1）配置用户名、git config --global user.name "你自己的用户名"：这个命令配置用户名。（第一次注册时使用）  输入 git config user.name：这个命令查看已经配置的用户的名。
+   （2）配置用户的邮箱、git config --global user.email "你自己的邮箱"：这个命令配置用户邮箱。（第一次注册时使用）输入 git config user.email：这个命令查看已经配置的邮箱。
+   （3）初始化本地仓库、输入 git init：这个命令初始化本地仓库
+   （4）暂存文件 输入 git add .  这个命令暂存所有更改的文件
+   （5）提交文件  推送到自己的文件   
 
 
  #第一次使用按照以上步骤、之后使用
- 1、点击文件右键显示执行“Git Bash Here”
- 2、git init   (初始化)  
- 3、git remote add  远程仓库的名称（随意） 刚才复制的远程仓库的地址（这个很重要，不能错） 
+    1、点击文件右键显示执行“Git Bash Here”
+    2、git init   (初始化)  
+    3、git remote add  远程仓库的名称（随意） 刚才复制的远程仓库的地址（这个很重要，不能错） 
